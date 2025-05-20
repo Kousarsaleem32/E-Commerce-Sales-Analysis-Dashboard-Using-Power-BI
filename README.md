@@ -37,7 +37,8 @@ To build a dynamic dashboard that enables the user to:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](./dashboard-preview.png) <!-- Replace with actual image file -->
+![Dashboard Screenshot](Dashboard%20Screenshot.png)
+
 
 ---
 
