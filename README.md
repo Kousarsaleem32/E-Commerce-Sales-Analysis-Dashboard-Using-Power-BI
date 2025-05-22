@@ -65,6 +65,11 @@ To build a dynamic dashboard that enables the user to:
   - **5615** Units Sold  
   - **121K** Average Order Value (AOV)
 
+## Contact
+
+For queries, feel free to reach out at:
+
+**Email**: [kousar.kousar@bilkent.edu.tr](mailto:kousar.kousar@bilkent.edu.tr)
 
    
 
